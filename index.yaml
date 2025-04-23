@@ -1,3 +1,13 @@
 apiVersion: v1
-entries: {}
-generated: "2025-04-23T10:46:48.4910305+03:00"
+entries:
+  swagger-ui:
+  - apiVersion: v2
+    appVersion: 4.15.5
+    created: "2025-04-23T10:51:57.1193595+03:00"
+    description: A Helm chart for Swagger UI
+    digest: 201e19f5f817582f83b9fc3a55f03f69bc0164894e60d7e6d8101abc37ba347d
+    name: swagger-ui
+    urls:
+    - https://NeTrogajSvetchu.github.io/my-helm-charts/swagger-ui-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-04-23T10:51:57.1168603+03:00"
